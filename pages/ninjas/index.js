@@ -29,6 +29,7 @@ const Ninjas = ({ninjas}) => {
                     <h3 className={styles.single}>{ninja.name}</h3>
                 </Link>
             ))}
+            <span className={styles.span}>Go back to the <a className={styles.btn} href="/">Homepage</a></span>
         </div>
         
      )
