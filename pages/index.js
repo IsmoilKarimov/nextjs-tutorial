@@ -11,7 +11,7 @@ const Home = () => {
         <title>Ninja List | Home</title>
         <meta name="keywords" content="ninjas" />
       </Head>
-      <h2 className={styles.title}>Homepage</h2>
+      <h2 className={styles.title}>Home Page</h2>
       <p className={styles.text}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda et ipsam inventore dolorem beatae saepe? Consectetur, consequuntur voluptatum. Ipsum deserunt porro est veritatis nostrum tenetur optio architecto hic cum eos!</p>
       <a className={styles.btn} href="/ninjas/test">See Test page</a>
     </>
